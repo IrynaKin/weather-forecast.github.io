@@ -1,0 +1,30 @@
+[
+    {
+        "title": "News 1",
+        "src": "images/news.jpg",
+        "description": "lorem ipsum dolor sit amet consectetur, lorem ipsum dolor sit amet consecteturorem ipsum dolor sit amet consecteturorem ipsum dolor sit amet consecteturostrum, recusandae dolores! Debitis vero, sint nihil  quo maiores quos excepturi animi quidem. ostrum, recusandae dolores! Debitis vero, sint nihil quo maiores quos excepturi animi quidem. ",
+        "name": "Peter",
+        "parent": ".articles"
+    },
+    {
+        "title": "News 2",
+        "src": "images/news.jpg",
+        "description": "lorem ipsum dolor sit amet consectetur, lorem ipsum dolor sit amet consecteturorem ipsum dolor sit amet consecteturorem ipsum dolor sit amet consecteturostrum, recusandae dolores! Debitis vero, sint nihil  quo maiores quos excepturi animi quidem. ostrum, recusandae dolores! Debitis vero, sint nihil quo maiores quos excepturi animi quidem. ",
+        "name": "Peter",
+        "parent": ".articles"
+    },
+    {
+        "title": "News 3",
+        "src": "images/news.jpg",
+        "description": "lorem iamet consecteturostrum, recusandae dolores! Debitis vero, sint nihil  quo maiores quos excepturi animi quidem. ostrum, recusandae dolores! Debitis vero, sint nihil quo maiores quos excepturi animi quidem. ",
+        "name": "Peter",
+        "parent": ".articles"
+    },
+    {
+        "title": "News 4",
+        "src": "images/news.jpg",
+        "description": "lorem ipsum dolor sit amet consectetur, lorem ipsum dolor sit amet consecteturorem ipsum dolor sit  ",
+        "name": "Peter",
+        "parent": ".articles"
+    }
+]
